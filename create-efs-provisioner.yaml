@@ -31,4 +31,4 @@ spec:
         - name: pv-volume
           nfs:
             server: fs-62e772b3.efs.ap-south-1.amazonaws.com
-            path: /
+
